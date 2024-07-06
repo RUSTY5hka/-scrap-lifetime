@@ -1,11 +1,4 @@
 # 🌐 The script to scrap https://www.lifetime.plus/
-## Know more ways? Create a pull request!
----
-More interesting projects: - https://netstalkers.com/private
-
-### 🎥 [PYTHON:TODAY](https://www.youtube.com/c/PythonToday/videos)
-### 🔥 [Telegram](https://t.me/python2day)
----
 
 ### Use
 ```
@@ -18,4 +11,4 @@ $ python main.py
 ```
 ---
 
-[Code](https://github.com/pythontoday/scrap-lifetime/blob/master/main.py)
+[Code](https://github.com/RUSTY5hka/-scrap-lifetime/blob/main/main.py)
